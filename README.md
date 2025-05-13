@@ -1,6 +1,6 @@
 # Purchasing Intention Classifier
 ### DATE: 13.05.2025                                                                       
-### REGISTER NUMBER : 212222040171
+### REGISTER NUMBER : 212222040118
 ### AIM: 
 To implement a ml project on purchasing intention classifier
 ### Algorithm:
